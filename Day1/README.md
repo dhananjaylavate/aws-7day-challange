@@ -1,6 +1,6 @@
-☁️ Understanding AWS Pricing Models
+**☁️ Understanding AWS Pricing Models**
 
-AWS offers flexible pricing options that help you build and scale based on your needs:
+**AWS offers flexible pricing options that help you build and scale based on your needs:**
 
 💡 **Pay-as-you-go** – Pay only for what you use. No upfront costs.
 
