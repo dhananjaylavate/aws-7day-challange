@@ -21,6 +21,10 @@ You can just type: `aws s3 cp file.txt s3://my-bucket/`
 
 **You can manage almost everything in AWS, like:**
 
+`aws configure accessKey`
+
+`aws configure secrectAccessKey`
+
 **☁️ S3 (Storage)**
 
 `aws s3 ls`
