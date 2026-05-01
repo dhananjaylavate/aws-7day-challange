@@ -28,8 +28,9 @@ Startups, learners, and growing businesses that need speed, flexibility, and low
 
 🔄 **Hybrid Cloud**
 **A mix of on-premises and cloud environments.**
-وا 
-**Balance between control and scalability**
+
+**Balance between control and scalabilit**
+
 **Integrates legacy systems with modern cloud solutions**
 
 👉 **Best for:**
